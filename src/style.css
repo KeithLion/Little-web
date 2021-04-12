@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-family: "Chewy", cursive;
+}
+h2 {
+  text-align: center;
+  font-family: "Chewy", cursive;
+}
+li {
+  list-style: none;
+}
+.instruction-box {
+  border: 1px solid;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+button {
+  display: block;
+  margin: 0 auto;
+}
