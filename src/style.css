@@ -11,11 +11,14 @@ li {
 }
 .instruction-box {
   border: 1px solid;
-  border-radius: 10px;
-  max-width: 400px;
+  border-radius: 30px;
+  max-width: 500px;
   margin: 0 auto;
 }
-button {
-  display: block;
+#button {
   margin: 0 auto;
+  display: block;
+}
+.container {
+  margin: 80px;
 }
