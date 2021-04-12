@@ -15,9 +15,8 @@ li {
   max-width: 500px;
   margin: 0 auto;
 }
-#button {
-  margin: 0 auto;
-  display: block;
+.page-links {
+  text-align: center;
 }
 .container {
   margin: 80px;
