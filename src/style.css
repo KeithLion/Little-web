@@ -2,7 +2,7 @@ h1 {
   text-align: center;
   font-family: "Chewy", cursive;
 }
-h2 {
+h3 {
   text-align: center;
   font-family: "Chewy", cursive;
 }
@@ -16,6 +16,7 @@ li {
   margin: 0 auto;
 }
 .page-links {
+  margin: 50px;
   text-align: center;
 }
 button {
